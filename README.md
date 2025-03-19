@@ -13,8 +13,8 @@ A modern, static dashboard built with **React**, **Vite**, **TailwindCSS**, **Re
 ## 📦 Installation
 ```sh
 # Clone the repository
-git clone https://github.com/your-username/react-dashboard.git
-cd react-dashboard
+https://github.com/Lydoww/Admin-Dashboard.git
+cd Admin-Dashboard
 
 # Install dependencies
 npm install
