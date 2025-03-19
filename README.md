@@ -29,6 +29,8 @@ npm run dev
 - ✨ **Smooth Animations** – Powered by Framer Motion
 - ⚡ **Fast & Optimized** – Vite for lightning-fast builds
 
-## 📄 License
-MIT License © 2025 Your Name
+## 🌐 Live Demo
+
+[StratoBoard](https://stratoboard.netlify.app/)
+
 
