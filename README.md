@@ -30,7 +30,6 @@ npm run dev
 - ⚡ **Fast & Optimized** – Vite for lightning-fast builds
 
 ## 🌐 Live Demo
-
-[StratoBoard](https://stratoboard.netlify.app/)
+You can access the live demo of the application here: [StratoBoard](https://stratoboard.netlify.app/)
 
 
