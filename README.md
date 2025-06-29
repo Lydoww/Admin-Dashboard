@@ -3,6 +3,9 @@
 ## 🚀 Overview
 A modern, static dashboard built with **React**, **Vite**, **TailwindCSS**, **Recharts**, and **Framer Motion**. It provides a sleek and interactive UI with animated data visualizations.
 
+![Uploading image.png…]()
+
+
 ## 🛠️ Tech Stack
 - **React** – UI framework
 - **Vite** – Fast build tool
